@@ -11,7 +11,7 @@ My primary focus is **Flutter and Dart**, with growing expertise in **Kotlin and
 🌱 **Currently exploring** — Kotlin, Jetpack Compose, native Android development, AI-assisted development, and modern software engineering practices.
 
 ---
-## 🎤 Speaking
+## 🎤 Speaker
 
 I enjoy sharing practical knowledge and experiences with the developer community through technical talks and presentations.
 
